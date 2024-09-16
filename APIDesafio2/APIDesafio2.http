@@ -1,0 +1,6 @@
+@APIDesafio2_HostAddress = http://localhost:5221
+
+GET {{APIDesafio2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
